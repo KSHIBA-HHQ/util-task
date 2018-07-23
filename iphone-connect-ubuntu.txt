@@ -1,0 +1,10 @@
+sudo apt-get install ipheth-utils 
+sudo modprobe ipheth
+
+(sudo apt-get install ideviceinstaller 不要か？)
+
+sudo apt-get update
+sudo apt-get install libimobiledevice-dev
+sudo apt-get install libimobiledevice-utils 
+idevicepair pair
+
